@@ -7,8 +7,7 @@ Proyek ini merupakan automation testing untuk website **Saucedemo** (`https://ww
 - Menggunakan **Robot Framework** dan **SeleniumLibrary**.
 - Menghasilkan laporan otomatis dalam format **HTML** dan **XML**.
 
-
-# 🚀 Cara Menjalankan Testing
+## 🚀 Cara Menjalankan Testing
 
 ### 1. Clone repository ini
 ```bash
