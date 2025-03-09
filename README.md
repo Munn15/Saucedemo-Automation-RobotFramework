@@ -1,6 +1,6 @@
 # Saucedemo Automation Testing with Robot Framework
 
-Proyek ini merupakan automation testing untuk website **Saucedemo** (https://www.saucedemo.com/v1/) menggunakan **Robot Framework** dan **SeleniumLibrary**.
+Proyek ini merupakan automation testing untuk website **Saucedemo** : https://www.saucedemo.com/v1/ menggunakan **Robot Framework** dan **SeleniumLibrary**.
 
 ## 📌 Fitur
 - Pengujian otomatis pada halaman login, inventory, cart, dan checkout.
