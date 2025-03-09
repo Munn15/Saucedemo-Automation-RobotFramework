@@ -2,7 +2,7 @@
 
 Proyek ini merupakan automation testing untuk website **Saucedemo** menggunakan **Robot Framework** dan **SeleniumLibrary**.
 
-## Fitur
+## 📌 Fitur
 - Pengujian otomatis pada halaman login, inventory, cart, dan checkout.
 - Menggunakan **Robot Framework** dan **SeleniumLibrary**.
 - Menghasilkan laporan otomatis dalam format **HTML** dan **XML**.
@@ -16,10 +16,14 @@ cd Saucedemo-Automation-RobotFramework
 ```
 
 ### 2. Install dependencies
-```bash pip install -r requirements.txt ```
+```bash 
+pip install -r requirements.txt
+```
 
 ### 3. Jalankan testing
-``` robot -d results tests/ ```
+```bash
+robot -d results tests/
+```
 
 ### 4. Melihat hasil testing
 Buka laporan hasil testing dengan membuka file berikut di browser:
